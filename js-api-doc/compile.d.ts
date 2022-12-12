@@ -8,6 +8,7 @@ import {Options, StringOptions} from './options';
  *
  * @category Compile
  */
+
 export interface CompileResult {
   /**
    * The generated CSS.
